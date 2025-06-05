@@ -204,7 +204,7 @@ namespace WinFormsApp1
             // Добавляем пустую строку
             dataTable.Rows.Add();
         }
-
+        
 
         private void TableForm_KDR_FormClosing(object sender, FormClosingEventArgs e)
         {

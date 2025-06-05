@@ -15,7 +15,7 @@ namespace WinFormsApp1
         {
             this.FormBorderStyle = FormBorderStyle.FixedSingle;
 
-            // Убираем кнопки управления окном
+            // Убираем кнопки управления окномhfhdh
             this.ControlBox = false;
 
             // Запрещаем развертывание и сворачивание

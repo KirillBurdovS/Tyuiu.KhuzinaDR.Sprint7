@@ -18,7 +18,7 @@ namespace WinFormsApp1
             // Убираем кнопки управления окномhfhdh
             this.ControlBox = false;
 
-            // Запрещаем развертывание и сворачивание
+            // Запрещаем развертывание и сворачиваниел
             this.MaximizeBox = false;
             this.MinimizeBox = false;
 
